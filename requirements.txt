@@ -1,0 +1,5 @@
+requests
+oauthlib
+pandas
+requests_oauthlib
+python-dotenv
